@@ -5,7 +5,7 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 
 ### processed files (genome version: mm10)
 #### peaks in bigBed format:
-[ATAC merged peaks](bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ATAC_mergePeak_peaks.bb) <br />
+[ATAC merged peaks](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ATAC_mergePeak_peaks.bb) <br />
 
 #### ATAC/ChIP-seq signal tracks in bigWig format:
 [ATAC signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ctrl_ATAC.bw)<br />
