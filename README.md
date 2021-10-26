@@ -14,5 +14,5 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 [ATAC signal in Runx3Tbetko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_Runx3Tbetdko_ATAC.bw)<br />
 [RUNX3 signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ctrl_RUNX3.bw)<br />
 [RUNX3 signal in Tbetko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_Tbetko_RUNX3.bw)<br />
-[TBET signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ctrl_TBET.bw)<br />
-[TBET signal in Runx3ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_Runx3ko_TBET.bw)<br />
+[TBET signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teffd6_ctrl_TBET.bw)<br />
+[TBET signal in Runx3ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teffd6_Runx3ko_TBET.bw)<br />
